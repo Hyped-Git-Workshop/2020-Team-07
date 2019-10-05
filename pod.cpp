@@ -27,4 +27,8 @@ double Pod::get_temperature()
 {
   return 42;
 }
+double Pod::get_pressure()
+{
+  return 0;
+}
 /// END OF TASKS 3A & 4B ///////////////////////////////////////////////////////
