@@ -1,4 +1,4 @@
-OBJS = accelerometer.o pod.o
+OBJS = accelerometer.o pod.o bms.o
 CC = g++
 DEBUG = -g
 CFLAGS = -std=c++11 -Wall -c -O3 $(DEBUG)
