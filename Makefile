@@ -28,3 +28,4 @@ bms.o : bms.cpp bms.h
 
 clean :
 	rm *.o main
+	
